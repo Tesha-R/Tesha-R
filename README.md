@@ -1,6 +1,6 @@
 # Hi there! 👋🏽
 
-# I'm working to increase my knowledge in javascript for front and back-end development to create simple, impactful data-driven applications translating data into valuable and understandable insights.
+# As a designer and front-end engineer, I am deeply passionate about all things JavaScript. I am continually enhancing my skills in this versatile language to create impactful web applications. I love transforming concepts into user-friendly digital experiences that meaningfully connect and improve users' lives.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
