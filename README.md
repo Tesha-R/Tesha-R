@@ -1,6 +1,6 @@
 # Hi there! 👋🏽
 
-# As a designer and front-end engineer, I am deeply passionate about all things JavaScript. I am continually enhancing my skills in this versatile language to create impactful web applications. I love transforming concepts into user-friendly digital experiences that meaningfully connect and improve users' lives.
+# As a designer and front-end engineer, I’m passionate about using JavaScript to create intuitive, impactful web applications. I love diving into the code and have fun turning concepts into user-friendly digital experiences that connect with people.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
